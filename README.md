@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hellbot15
+# 👋 Hi, I'm ABDUL GHANI
 
 ### 🤖 AI/ML • 🛡️ Cybersecurity • 💻 Software Development
 
