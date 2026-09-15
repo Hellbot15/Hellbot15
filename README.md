@@ -84,13 +84,19 @@ Exploring machine learning, NLP, and intelligent systems through practical proje
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hellbot15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Hellbot15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellbot15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellbot15&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"/>
 
 </div>
 
@@ -100,7 +106,9 @@ Exploring machine learning, NLP, and intelligent systems through practical proje
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hellbot15&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img
+src="https://streak-stats.demolab.com?user=Hellbot15&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 </div>
 
@@ -110,7 +118,9 @@ Exploring machine learning, NLP, and intelligent systems through practical proje
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hellbot15&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Hellbot15&theme=tokyo-night&hide_border=true"
+alt="Contribution Graph"/>
 
 </div>
 
